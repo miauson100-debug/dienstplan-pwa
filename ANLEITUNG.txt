@@ -1,0 +1,8 @@
+ANDROID INSTALLATION
+
+1. Alle Dateien aus diesem Ordner unverändert gemeinsam auf einen HTTPS-Webhost hochladen (z. B. GitHub Pages oder Netlify).
+2. Die HTTPS-Adresse auf Android in Google Chrome öffnen.
+3. Browser-Menü (⋮) > App installieren bzw. Zum Startbildschirm hinzufügen wählen. Alternativ die Schaltfläche App installieren nutzen, falls sichtbar.
+4. Die App startet anschließend eigenständig und funktioniert auch offline.
+
+Wichtig: Ein lokaler file://-Aufruf ist nicht als PWA installierbar. Die Schichtdaten liegen nur lokal auf dem Gerät. Für Sicherungen die Exportfunktion verwenden.
